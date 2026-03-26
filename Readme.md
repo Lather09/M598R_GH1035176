@@ -23,7 +23,7 @@ The goal of this notebook is to:
 - **File Used:** `release_10_23_2020.csv`  
 - **Domain:** Fashion E-Commerce  
 - **Data Type:** User sessions, product interactions, and behavioral signals  
-
+- **available at:** https://github.com/coveooss/shopper-intent-prediction-nature-2020 
 ---
 
 ## ⚙️ Project Structure
