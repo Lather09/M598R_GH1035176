@@ -28,10 +28,10 @@ The goal of this notebook is to:
 
 ## ⚙️ Project Structure
 
-├── thesiscode.ipynb # Main Jupyter Notebook (EDA & analysis)
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── data/ # (Optional) Dataset directory
+-├── thesiscode.ipynb # Main Jupyter Notebook (EDA & analysis)
+-├── README.md # Project documentation
+-├── requirements.txt # Python dependencies
+-└── data/ # (Optional) Dataset directory
 
 
 ---
